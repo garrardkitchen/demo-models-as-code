@@ -1,0 +1,5 @@
+node_modules/
+demo-2/diagrams/
+demo-2/documentation/
+.structurizr/
+workspace.json
